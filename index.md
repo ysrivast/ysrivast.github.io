@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Quarkus**
 
-- 📝 I regularly write articles on [ysrivast](ysrivast)
+- 📝 I regularly write articles on [https://medium.com/@Ysrivast](https://medium.com/@Ysrivast)
 
 - 💬 Ask me about **Application development**
 
